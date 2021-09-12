@@ -1,0 +1,4 @@
+extract css 	[done]
+extract class 	[done]
+extract id
+extract tag
